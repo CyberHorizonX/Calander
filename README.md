@@ -1,4 +1,4 @@
-# Calendar Application Documentation
+# Calendar (writen in cpp)
 
 This documentation provides a comprehensive overview of a simple calendar application implemented in C++. The application allows users to view the entire year's calendar or a specific month's calendar based on user input. 
 
